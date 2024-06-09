@@ -14,7 +14,6 @@ lives = 6
 
 print(logo.logo)
 
-
 display = []
 for _ in range(word_length):
     display += "_"
@@ -42,5 +41,5 @@ while not end_of_game:
     
     if "_" not in display:
         end_of_game = True
-        print("You win.")
+        print("You win <3")
 
