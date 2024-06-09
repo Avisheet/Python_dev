@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import logo
 import hangman_list
 import random
